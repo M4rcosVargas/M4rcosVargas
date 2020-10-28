@@ -13,5 +13,7 @@ I'm an intern at the company [KTI](https://kti.inf.br)
 
 ### My social networks
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-peixer-vargas-2b3bb01b0/)](https://www.linkedin.com/in/marcos-peixer-vargas-2b3bb01b0/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcospv.mp@gmail.com)](mailto:marcospv.mp@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MarcosPeixer)](https://twitter.com/MarcosPeixer) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-peixer-vargas-2b3bb01b0/)](https://www.linkedin.com/in/marcos-peixer-vargas-2b3bb01b0/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcospv.mp@gmail.com)](mailto:marcospv.mp@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MarcosPeixer)](https://twitter.com/MarcosPeixer) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com)
 ](https://www.instagram.com)
