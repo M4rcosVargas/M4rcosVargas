@@ -2,14 +2,14 @@
 
  I study Computer Science at the University of Vale de Itajaí (UNIVALI), I'm in the 2nd Period. 
  
- - I'm 18 years old 
- - Born in Balneário Camboriú, Brazil
- - Live in Itajaí, Brazil
- - I like so much games
+ - 🤵🏻 I'm 18 years old 
+ - 🌎 Born in Balneário Camboriú, Brazil
+ - 🌆 Live in Itajaí, Brazil
+ - 🎮 I like so much games
 
 ### What I'm working on
 
-I'm an intern at the company [KTI](https://kti.inf.br)
+🏢 I'm an intern at the company [KTI](https://kti.inf.br)
 
 ### My social networks
 
