@@ -1,4 +1,4 @@
-### Hey, I'm Marcos Peixer Vargas
+### Hey, I'm Marcos Peixer Vargas 👋🏻
 
  I study Computer Science at the University of Vale de Itajaí (UNIVALI), I'm in the 2nd Period. 
  
