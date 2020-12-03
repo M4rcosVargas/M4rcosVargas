@@ -9,7 +9,7 @@
 
 ### What I'm working on
 
-🏢 I'm an intern at the company [KTI](https://kti.inf.br)
+
 
 ### My social networks
 
