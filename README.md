@@ -1,15 +1,16 @@
 ### Hey, I'm Marcos Peixer Vargas 👋🏻
 
- I study Computer Science at the University of Vale de Itajaí (UNIVALI), I'm in the 2nd Period. 
+ I studied Computer Science at the University of Vale de Itajaí (UNIVALI), I was on the 2nd period.
+ Today I study Foreign Trade at UNIVALI, I am in the 1st period
  
- - 🤵🏻 I'm 18 years old 
+ - 🤵🏻 I'm 19 years old 
  - 🌎 Born in Balneário Camboriú, Brazil
  - 🌆 Live in Itajaí, Brazil
  - 🎮 I like so much games
 
 ### What I'm working on
 
-
+I currently work at 🚢 DC Logistics Brasil 🛫, in the administrative sector 
 
 ### My social networks
 
